@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutsatir&layout=compact)](https://github.com/umutsatir/umutsatir)
+
+
 [![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutsatir)](https://github.com/umutsatir/umutsatir)
