@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📛 I'm Umut. I live in Kocaeli, Turkey.
+
 🎓 I'm a computer engineering student at Gebze Technical University.
 
 🌱 I’m currently learning Python.
