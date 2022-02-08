@@ -18,7 +18,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutsatir&layout=compact)](https://github.com/umutsatir/umutsatir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutsatir&layout=compact)](https://github.com/umutsatir/)
 
 [![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutsatir)](https://github.com/umutsatir/umutsatir)
 
