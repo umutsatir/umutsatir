@@ -4,7 +4,7 @@
 
 🎓 I'm a computer engineering student at Gebze Technical University.
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning Javascript.
 
 😄 Pronouns: he/him
 
