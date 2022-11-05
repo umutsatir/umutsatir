@@ -4,7 +4,7 @@
 
 🎓 I'm a computer engineering student at Gebze Technical University.
 
-🌱 I’m currently learning Solidity.
+🌱 I’m currently learning Solidity and C.
 
 😄 Pronouns: he/him
 
