@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umutsatir&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umutsatir&icon=6&color=7)](https://visitcount.itsvg.in)
