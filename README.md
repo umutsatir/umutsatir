@@ -1,6 +1,6 @@
 ![Umut](/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FF9103&center=true&vCenter=true&width=1000&lines=Computer+Engineer;Fullstack+Developer;Blockchain+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=1000&color=FF9103&center=true&width=1000&lines=Computer+Engineer;Fullstack+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 -----------------
 
 * 🌍  I'm based in Türkiye
