@@ -5,7 +5,7 @@ Computer Engineer
 -----------------
 
 * 🌍  I'm based in Türkiye
-* 🖥️  See my portfolio at [umutsatir.dev](http://umutsatir.dev)
+* 🖥️  (Portfolio website is under development)
 * ✉️  You can contact me at [umutstr54@gmail.com](mailto:umutstr54@gmail.com)
 * 🧠  I'm learning Solidity and React
 * 🤝  I'm open to collaborating on blockchain projects
